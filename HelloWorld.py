@@ -1,3 +1,2 @@
 print('Hello, World!')
-
-print('Hello, World2')
+print('This is a simple Python program that prints a greeting message.')
