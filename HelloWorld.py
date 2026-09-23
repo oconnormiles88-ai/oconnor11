@@ -1,2 +1,1 @@
-print('Hello, World!')
-print('hello Miles')
+print("hello world")
